@@ -27,18 +27,28 @@
       "faculty_id": "F001",
       "day": "Wednesday",
       "time_slot": {
-        "start_time": "09:00",
-        "end_time": "10:00"
+        "start_time": "14:00",
+        "end_time": "15:00"
       },
-      "room": "R102"
+      "room": "R101"
     },
     {
       "course_code": "CS101",
       "faculty_id": "F001",
       "day": "Wednesday",
       "time_slot": {
-        "start_time": "10:00",
-        "end_time": "11:00"
+        "start_time": "15:00",
+        "end_time": "16:00"
+      },
+      "room": "R101"
+    },
+    {
+      "course_code": "CS201",
+      "faculty_id": "F001",
+      "day": "Tuesday",
+      "time_slot": {
+        "start_time": "14:00",
+        "end_time": "15:00"
       },
       "room": "R102"
     },
@@ -47,34 +57,114 @@
       "faculty_id": "F001",
       "day": "Tuesday",
       "time_slot": {
-        "start_time": "09:00",
-        "end_time": "10:00"
+        "start_time": "15:00",
+        "end_time": "16:00"
       },
-      "room": "R103"
-    },
-    {
-      "course_code": "CS201",
-      "faculty_id": "F001",
-      "day": "Wednesday",
-      "time_slot": {
-        "start_time": "10:00",
-        "end_time": "11:00"
-      },
-      "room": "R103"
+      "room": "R102"
     },
     {
       "course_code": "CS201",
       "faculty_id": "F001",
       "day": "Thursday",
       "time_slot": {
-        "start_time": "10:00",
-        "end_time": "11:00"
+        "start_time": "16:00",
+        "end_time": "17:00"
+      },
+      "room": "R102"
+    },
+    {
+      "course_code": "CS301",
+      "faculty_id": "F002",
+      "day": "Monday",
+      "time_slot": {
+        "start_time": "16:00",
+        "end_time": "17:00"
       },
       "room": "R103"
     },
     {
       "course_code": "CS301",
       "faculty_id": "F002",
+      "day": "Friday",
+      "time_slot": {
+        "start_time": "09:00",
+        "end_time": "10:00"
+      },
+      "room": "R103"
+    },
+    {
+      "course_code": "CS301",
+      "faculty_id": "F002",
+      "day": "Friday",
+      "time_slot": {
+        "start_time": "10:00",
+        "end_time": "11:00"
+      },
+      "room": "R103"
+    },
+    {
+      "course_code": "CS401",
+      "faculty_id": "F002",
+      "day": "Tuesday",
+      "time_slot": {
+        "start_time": "09:00",
+        "end_time": "10:00"
+      },
+      "room": "R104"
+    },
+    {
+      "course_code": "CS401",
+      "faculty_id": "F002",
+      "day": "Tuesday",
+      "time_slot": {
+        "start_time": "10:00",
+        "end_time": "11:00"
+      },
+      "room": "R104"
+    },
+    {
+      "course_code": "CS401",
+      "faculty_id": "F002",
+      "day": "Thursday",
+      "time_slot": {
+        "start_time": "14:00",
+        "end_time": "15:00"
+      },
+      "room": "R104"
+    },
+    {
+      "course_code": "CS401",
+      "faculty_id": "F002",
+      "day": "Thursday",
+      "time_slot": {
+        "start_time": "15:00",
+        "end_time": "16:00"
+      },
+      "room": "R104"
+    },
+    {
+      "course_code": "MATH201",
+      "faculty_id": "F003",
+      "day": "Wednesday",
+      "time_slot": {
+        "start_time": "09:00",
+        "end_time": "10:00"
+      },
+      "room": "R105"
+    },
+    {
+      "course_code": "MATH201",
+      "faculty_id": "F003",
+      "day": "Wednesday",
+      "time_slot": {
+        "start_time": "10:00",
+        "end_time": "11:00"
+      },
+      "room": "R105"
+    },
+    {
+      "course_code": "MATH201",
+      "faculty_id": "F003",
       "day": "Monday",
       "time_slot": {
         "start_time": "11:00",
@@ -83,39 +173,39 @@
       "room": "R105"
     },
     {
-      "course_code": "CS301",
-      "faculty_id": "F002",
-      "day": "Friday",
+      "course_code": "MATH301",
+      "faculty_id": "F003",
+      "day": "Thursday",
       "time_slot": {
         "start_time": "09:00",
         "end_time": "10:00"
       },
-      "room": "R105"
+      "room": "R106"
     },
     {
-      "course_code": "CS301",
-      "faculty_id": "F002",
-      "day": "Friday",
+      "course_code": "MATH301",
+      "faculty_id": "F003",
+      "day": "Thursday",
       "time_slot": {
         "start_time": "10:00",
         "end_time": "11:00"
       },
-      "room": "R105"
+      "room": "R106"
     },
     {
-      "course_code": "CS401",
-      "faculty_id": "F002",
+      "course_code": "MATH301",
+      "faculty_id": "F003",
       "day": "Tuesday",
       "time_slot": {
-        "start_time": "09:00",
-        "end_time": "10:00"
+        "start_time": "11:00",
+        "end_time": "12:00"
       },
-      "room": "R107"
+      "room": "R106"
     },
     {
-      "course_code": "CS401",
-      "faculty_id": "F002",
-      "day": "Tuesday",
+      "course_code": "PHY101",
+      "faculty_id": "F004",
+      "day": "Wednesday",
       "time_slot": {
         "start_time": "12:00",
         "end_time": "13:00"
@@ -123,9 +213,29 @@
       "room": "R107"
     },
     {
-      "course_code": "CS401",
-      "faculty_id": "F002",
+      "course_code": "PHY101",
+      "faculty_id": "F004",
       "day": "Wednesday",
+      "time_slot": {
+        "start_time": "14:00",
+        "end_time": "15:00"
+      },
+      "room": "R107"
+    },
+    {
+      "course_code": "PHY101",
+      "faculty_id": "F004",
+      "day": "Monday",
+      "time_slot": {
+        "start_time": "13:00",
+        "end_time": "14:00"
+      },
+      "room": "R107"
+    },
+    {
+      "course_code": "CS501",
+      "faculty_id": "F005",
+      "day": "Friday",
       "time_slot": {
         "start_time": "11:00",
         "end_time": "12:00"
@@ -133,29 +243,29 @@
       "room": "R108"
     },
     {
-      "course_code": "CS401",
-      "faculty_id": "F002",
-      "day": "Thursday",
+      "course_code": "CS501",
+      "faculty_id": "F005",
+      "day": "Tuesday",
       "time_slot": {
-        "start_time": "10:00",
-        "end_time": "11:00"
+        "start_time": "12:00",
+        "end_time": "13:00"
       },
-      "room": "R104"
+      "room": "R108"
     },
     {
-      "course_code": "CS401",
-      "faculty_id": "F002",
+      "course_code": "CS601",
+      "faculty_id": "F005",
       "day": "Thursday",
       "time_slot": {
         "start_time": "12:00",
         "end_time": "13:00"
       },
-      "room": "R104"
+      "room": "R109"
     },
     {
-      "course_code": "MATH201",
-      "faculty_id": "F003",
-      "day": "Monday",
+      "course_code": "CS601",
+      "faculty_id": "F005",
+      "day": "Thursday",
       "time_slot": {
         "start_time": "14:00",
         "end_time": "15:00"
@@ -163,164 +273,34 @@
       "room": "R109"
     },
     {
-      "course_code": "MATH201",
-      "faculty_id": "F003",
-      "day": "Wednesday",
-      "time_slot": {
-        "start_time": "14:00",
-        "end_time": "15:00"
-      },
-      "room": "R110"
-    },
-    {
-      "course_code": "MATH201",
-      "faculty_id": "F003",
-      "day": "Friday",
-      "time_slot": {
-        "start_time": "14:00",
-        "end_time": "15:00"
-      },
-      "room": "R111"
-    },
-    {
-      "course_code": "MATH301",
-      "faculty_id": "F003",
-      "day": "Tuesday",
-      "time_slot": {
-        "start_time": "14:00",
-        "end_time": "15:00"
-      },
-      "room": "R112"
-    },
-    {
-      "course_code": "MATH301",
-      "faculty_id": "F003",
-      "day": "Wednesday",
-      "time_slot": {
-        "start_time": "15:00",
-        "end_time": "16:00"
-      },
-      "room": "R112"
-    },
-    {
-      "course_code": "MATH301",
-      "faculty_id": "F003",
-      "day": "Wednesday",
-      "time_slot": {
-        "start_time": "16:00",
-        "end_time": "17:00"
-      },
-      "room": "R113"
-    },
-    {
-      "course_code": "PHY101",
-      "faculty_id": "F004",
+      "course_code": "CS601",
+      "faculty_id": "F005",
       "day": "Monday",
       "time_slot": {
-        "start_time": "14:00",
-        "end_time": "15:00"
+        "start_time": "17:00",
+        "end_time": "18:00"
       },
-      "room": "R114"
+      "room": "R109"
     },
     {
       "course_code": "PHY101",
       "faculty_id": "F004",
-      "day": "Monday",
-      "time_slot": {
-        "start_time": "15:00",
-        "end_time": "16:00"
-      },
-      "room": "R114"
-    },
-    {
-      "course_code": "PHY101",
-      "faculty_id": "F004",
-      "day": "Wednesday",
-      "time_slot": {
-        "start_time": "15:00",
-        "end_time": "16:00"
-      },
-      "room": "R115"
-    },
-    {
-      "course_code": "PHY101",
-      "faculty_id": "F004",
-      "day": "Wednesday",
-      "time_slot": {
-        "start_time": "16:00",
-        "end_time": "17:00"
-      },
-      "room": "R115"
-    },
-    {
-      "course_code": "CS501",
-      "faculty_id": "F005",
-      "day": "Tuesday",
-      "time_slot": {
-        "start_time": "15:00",
-        "end_time": "16:00"
-      },
-      "room": "R116"
-    },
-    {
-      "course_code": "CS501",
-      "faculty_id": "F005",
-      "day": "Tuesday",
-      "time_slot": {
-        "start_time": "16:00",
-        "end_time": "17:00"
-      },
-      "room": "R116"
-    },
-    {
-      "course_code": "CS501",
-      "faculty_id": "F005",
       "day": "Friday",
       "time_slot": {
         "start_time": "15:00",
         "end_time": "16:00"
       },
-      "room": "R117"
-    },
-    {
-      "course_code": "CS601",
-      "faculty_id": "F005",
-      "day": "Monday",
-      "time_slot": {
-        "start_time": "14:00",
-        "end_time": "15:00"
-      },
-      "room": "R118"
-    },
-    {
-      "course_code": "CS601",
-      "faculty_id": "F005",
-      "day": "Monday",
-      "time_slot": {
-        "start_time": "15:00",
-        "end_time": "16:00"
-      },
-      "room": "R118"
+      "room": "R107"
     },
     {
       "course_code": "CS601",
       "faculty_id": "F005",
       "day": "Friday",
       "time_slot": {
-        "start_time": "14:00",
-        "end_time": "15:00"
-      },
-      "room": "R119"
-    },
-    {
-      "course_code": "CS601",
-      "faculty_id": "F005",
-      "day": "Thursday",
-      "time_slot": {
         "start_time": "16:00",
         "end_time": "17:00"
       },
-      "room": "R119"
+      "room": "R109"
     }
   ]
 }

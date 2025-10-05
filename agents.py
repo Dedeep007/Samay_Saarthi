@@ -6,11 +6,14 @@ from langchain.prompts import PromptTemplate
 import json
 from tabulate import tabulate
 from models import Course, Faculty, TimetableSlot, TimeSlot, DayOfWeek
+from dotenv import load_dotenv
+
+load_dotenv()
 
 class TimetableAgent:
     """Agent that uses LLM to generate timetable suggestions"""
-    
-    def __init__(self, api_key: str, model_name: str = "deepseek-r1-distill-llama-70b", debug: bool = True):
+
+    def __init__(self, api_key: str = os.getenv("GROQ_API_KEY"), model_name: str = "deepseek-r1-distill-llama-70b", debug: bool = True):
         self.llm = ChatGroq(
             api_key=api_key,
             model=model_name,

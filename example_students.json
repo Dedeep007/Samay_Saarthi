@@ -1,0 +1,104 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@university.edu",
+      "semester": 3,
+      "year": 2,
+      "program": "B.Tech Computer Science",
+      "major_courses": ["CS301", "CS501"],
+      "minor_courses": ["MATH301"],
+      "elective_courses": ["CS401"],
+      "skill_based_courses": ["MAN201"],
+      "value_added_courses": ["ENG101"],
+      "max_credits_per_semester": 22,
+      "preferred_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "avoided_time_slots": [
+        {
+          "start_time": "12:00",
+          "end_time": "13:00"
+        }
+      ]
+    },
+    {
+      "id": "S002",
+      "name": "Bob Smith",
+      "email": "bob.smith@university.edu",
+      "semester": 1,
+      "year": 1,
+      "program": "B.Tech Computer Science",
+      "major_courses": ["CS101"],
+      "minor_courses": [],
+      "elective_courses": [],
+      "skill_based_courses": ["MAN201"],
+      "value_added_courses": ["ENG101"],
+      "max_credits_per_semester": 20,
+      "preferred_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "avoided_time_slots": [
+        {
+          "start_time": "09:00",
+          "end_time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "S003",
+      "name": "Carol Davis",
+      "email": "carol.davis@university.edu",
+      "semester": 5,
+      "year": 3,
+      "program": "B.Tech Computer Science",
+      "major_courses": ["CS501", "CS601"],
+      "minor_courses": ["MATH301"],
+      "elective_courses": ["CS401"],
+      "skill_based_courses": [],
+      "value_added_courses": [],
+      "max_credits_per_semester": 24,
+      "preferred_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "avoided_time_slots": []
+    },
+    {
+      "id": "S004",
+      "name": "David Brown",
+      "email": "david.brown@university.edu",
+      "semester": 2,
+      "year": 1,
+      "program": "B.Tech Mechanical Engineering",
+      "major_courses": ["CS201"],
+      "minor_courses": ["MATH201"],
+      "elective_courses": [],
+      "skill_based_courses": ["MAN201"],
+      "value_added_courses": ["ENG101"],
+      "max_credits_per_semester": 20,
+      "preferred_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "avoided_time_slots": [
+        {
+          "start_time": "16:00",
+          "end_time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "S005",
+      "name": "Emma Wilson",
+      "email": "emma.wilson@university.edu",
+      "semester": 4,
+      "year": 2,
+      "program": "B.Tech Data Science",
+      "major_courses": ["CS301", "MATH301"],
+      "minor_courses": [],
+      "elective_courses": ["CS401"],
+      "skill_based_courses": [],
+      "value_added_courses": ["ENG101"],
+      "max_credits_per_semester": 22,
+      "preferred_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "avoided_time_slots": [
+        {
+          "start_time": "14:00",
+          "end_time": "15:00"
+        }
+      ]
+    }
+  ]
+}
